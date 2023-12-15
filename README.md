@@ -1,1 +1,1 @@
-# kube-openai-manifests
+# kube_manifests_openai
